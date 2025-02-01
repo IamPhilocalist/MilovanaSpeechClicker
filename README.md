@@ -26,7 +26,7 @@ This will let you use your own extension.
 ## Step 7. Click on "load unpacked"
 ![text](/tutorial_images/Screenshot%202025-02-01%20at%201.22.02.png "Step 6.")
 
-## Step 8. Select the folder which contains the files "milovana_speech_clicker"
+## Step 8. Select the folder which contains the files named "milovana_speech_clicker"
 Important:
 It's not the same folder you've downloaded as a .zip!
 It's located WITHIN that.
@@ -36,7 +36,7 @@ It's located WITHIN that.
 You can unpin it if you wish or you can also bring it up using the extension icon and then clicking on it.
 ![text](/tutorial_images/Screenshot%202025-02-01%20at%201.26.43.png "Step 8.")
 
-## Step 10. Open up a milovana webtease open the extension (click on the icon) and then click "Start"
+## Step 10. Open up a milovana webtease, open the extension (click on the icon) and then click "Start"
 Give temporary access to your microphone and you're good to go.
 When you're done and close the page it will stop listening, as indicated by the microphone icon (or the lack of it) in the top bar.
 Click away from the extension popup and it will disappear, but continue to work.
