@@ -10,8 +10,8 @@ Feel free to audit the code or modify it to suit your needs.
 ## Step 3: Click on "download ZIP"
 ![text](/tutorial_images/Screenshot%202025-02-01%20at%201.12.07.png "Step 2.")
 
-## Step :. Open the zip you've downloaded in a folder
-## We will use this later in Step 8.
+## Step 4:. Open the zip you've downloaded in a folder
+(We will use this later in Step 8.)
 It might look different on windows, but it's not your first time of downloading a file.
 ![text](/tutorial_images/Screenshot%202025-02-01%20at%201.13.25.png "Step 3.")
 
